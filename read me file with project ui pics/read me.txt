@@ -1,0 +1,6 @@
+   Easy travel is a travelling management project to help people travel easier, with
+ the least cost possible, by providing for the users some Comprehensive offers from 
+the trip booking to the Residence, we made sign up and login pages, which takes the
+ user to the home page,  from there they can choose to book an offer , see their 
+profile page, or see the offers they booked,  we also have the manager page where 
+the manager can add an offer, hotel or an airport, or edit an offer data if neede
